@@ -1,0 +1,208 @@
+Starting passenger 0
+Starting passenger 5
+Starting passenger 2
+Starting passenger 8
+Starting passenger 4
+Starting passenger 1
+Starting passenger 6
+Starting passenger 14
+Starting passenger 16
+Starting passenger 9
+Starting passenger 18
+Starting passenger 20
+Starting passenger 12
+Starting passenger 11
+Starting passenger 13
+Starting passenger 3
+Starting passenger 15
+Starting passenger 17
+Starting passenger 10
+Starting passenger 19
+Starting passenger 29
+Starting passenger 33
+Starting passenger 22
+Starting passenger 23
+Starting passenger 37
+Starting passenger 25
+Starting passenger 7
+Starting passenger 41
+Starting passenger 44
+Starting passenger 46
+Starting passenger 28
+Starting passenger 27
+Starting passenger 26
+Starting passenger 21
+Starting passenger 34
+Starting passenger 24
+Starting passenger 35
+Starting passenger 38
+Starting passenger 39
+Starting passenger 36
+Starting passenger 40
+Starting passenger 31
+Starting passenger 42
+Starting passenger 30
+Starting passenger 43
+Starting passenger 45
+Starting passenger 32
+Starting passenger 49
+Starting passenger 48
+Starting passenger 47
+Passenger 0 requesting 15->17
+Passenger 30 requesting 7->26
+Passenger 9 requesting 17->8
+Passenger 49 requesting 16->9
+Passenger 1 requesting 3->8
+Starting elevator 1
+Starting elevator 0
+Starting elevator 2
+Starting elevator 3
+Passenger 18 requesting 2->9
+Passenger 17 requesting 16->4
+Passenger 4 requesting 1->24
+Passenger 3 requesting 14->26
+Passenger 29 requesting 3->17
+Passenger 10 requesting 22->12
+Passenger 22 requesting 0->2
+Passenger 25 requesting 26->10
+Passenger 19 requesting 16->18
+Passenger 15 requesting 24->23
+Passenger 37 requesting 2->7
+Passenger 13 requesting 27->12
+Passenger 20 requesting 19->4
+Passenger 23 requesting 19->7
+Passenger 44 requesting 15->22
+Passenger 28 requesting 5->12
+Passenger 46 requesting 19->12
+Passenger 33 requesting 9->7
+Passenger 7 requesting 26->18
+Passenger 27 requesting 14->18
+Passenger 21 requesting 26->11
+Passenger 26 requesting 10->10
+Passenger 24 requesting 23->15
+Passenger 41 requesting 27->21
+Passenger 35 requesting 1->17
+Passenger 31 requesting 25->20
+Passenger 38 requesting 0->25
+Passenger 34 requesting 17->6
+Passenger 36 requesting 2->21
+Passenger 40 requesting 1->20
+Passenger 39 requesting 23->12
+Passenger 12 requesting 6->3
+Passenger 32 requesting 6->17
+Passenger 42 requesting 5->17
+Passenger 2 requesting 9->1
+Passenger 11 requesting 11->11
+Passenger 45 requesting 17->5
+Passenger 43 requesting 20->22
+Passenger 5 requesting 18->22
+Passenger 14 requesting 16->11
+Passenger 16 requesting 1->0
+Passenger 8 requesting 19->4
+Passenger 6 requesting 10->3
+Passenger 48 requesting 23->10
+Passenger 47 requesting 22->24
+Moving elevator 1 up from 0
+Moving elevator 0 up from 0
+Moving elevator 2 up from 0
+Moving elevator 3 up from 0
+Moving elevator 0 up from 0
+Moving elevator 1 up from 0
+Moving elevator 1 up from 1
+Moving elevator 2 up from 0
+Moving elevator 2 up from 1
+Moving elevator 3 up from 0
+Moving elevator 3 up from 1
+Moving elevator 0 up from 1
+Moving elevator 1 up from 1
+Moving elevator 1 up from 2
+Moving elevator 2 up from 1
+Moving elevator 2 up from 2
+Moving elevator 3 up from 1
+Moving elevator 3 up from 2
+Moving elevator 0 up from 1
+Moving elevator 0 up from 2
+Moving elevator 1 up from 2
+Moving elevator 1 up from 3
+Moving elevator 2 up from 2
+Moving elevator 2 up from 3
+Moving elevator 3 up from 2
+Moving elevator 3 up from 3
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Moving elevator 1 up from 3
+Moving elevator 1 up from 4
+Moving elevator 2 up from 3
+Moving elevator 2 up from 4
+Moving elevator 3 up from 3
+Moving elevator 3 up from 4
+Moving elevator 1 up from 4
+Moving elevator 1 up from 5
+Moving elevator 2 up from 4
+Moving elevator 2 up from 5
+Moving elevator 3 up from 4
+Moving elevator 3 up from 5
+Moving elevator 1 up from 5
+Moving elevator 1 up from 6
+Moving elevator 2 up from 5
+Moving elevator 2 up from 6
+Moving elevator 3 up from 5
+Moving elevator 3 up from 6
+Moving elevator 1 up from 6
+Moving elevator 1 up from 7
+Moving elevator 2 up from 6
+Moving elevator 2 up from 7
+Moving elevator 3 up from 6
+Moving elevator 3 up from 7
+Moving elevator 1 up from 7
+Moving elevator 1 up from 8
+Moving elevator 2 up from 7
+Moving elevator 2 up from 8
+Moving elevator 3 up from 7
+Moving elevator 3 up from 8
+Moving elevator 1 up from 8
+Moving elevator 1 up from 9
+Moving elevator 2 up from 8
+Moving elevator 2 up from 9
+Moving elevator 3 up from 8
+Moving elevator 3 up from 9
+Moving elevator 1 up from 9
+Moving elevator 1 up from 10
+Moving elevator 2 up from 9
+Moving elevator 2 up from 10
+Moving elevator 3 up from 9
+Moving elevator 3 up from 10
+Moving elevator 1 up from 10
+Moving elevator 1 up from 11
+Moving elevator 2 up from 10
+Moving elevator 2 up from 11
+Moving elevator 3 up from 10
+Moving elevator 3 up from 11
+Moving elevator 1 up from 11
+Moving elevator 1 up from 12
+Moving elevator 2 up from 11
+Moving elevator 2 up from 12
+Moving elevator 3 up from 11
+Moving elevator 3 up from 12
+Opening elevator 0 at floor 3
+Moving elevator 1 up from 12
+Moving elevator 1 up from 13
+Moving elevator 2 up from 12
+Moving elevator 3 up from 12
+Moving elevator 2 up from 13
+Moving elevator 3 up from 13
+Moving elevator 1 up from 13
+Moving elevator 1 up from 14
+Moving elevator 2 up from 13
+Moving elevator 2 up from 14
+Moving elevator 3 up from 13
+Moving elevator 3 up from 14
+Moving elevator 1 up from 14
+Opening elevator 1 at floor 15
+Moving elevator 2 up from 14
+Opening elevator 2 at floor 15
+Moving elevator 3 up from 14
+Opening elevator 3 at floor 15
+Opening elevator 1 at floor 15
+Opening elevator 2 at floor 15
+Opening elevator 3 at floor 15
